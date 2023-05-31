@@ -25,7 +25,7 @@ import GSSoC from "./company/GSSoC.jpeg";
 import Wix from "./company/Wix.jpeg";
 import internList from "./company/internList.jpeg";
 
-import InternList from "./InternList.png";
+import InternList from "./internList.png";
 import ChatApp from "./ChatApp.jpeg";
 import attendence from "./attendance.png";
 import Extension from "./Extension.png";
