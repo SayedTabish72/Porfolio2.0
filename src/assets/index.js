@@ -29,7 +29,7 @@ import InternList from "./internList.png";
 import ChatApp from "./ChatApp.jpeg";
 import attendence from "./attendance.png";
 import Extension from "./Extension.png";
-import Calculator from "./calculator.jpeg";
+import Calculator from "./Calculator.jpeg";
 import Encription from "./Encryption.png";
 import Task from "./Task.png";
 
